@@ -2,5 +2,5 @@
 code to auto run chrome dinosaur game
 
 <p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ks_2ScKtTLSMHsRti_9bZGSDLT6El4bOGG9ppI6CI7FEVZ_q&s" />
+  <img src="https://lh3.googleusercontent.com/YPSZ9e1wW1z7cIyjkpQUqAdMzlgaPprj3_1n9tKesPfYR8U1nlxcsHFk8Dd-1XWa-ymskRLekQ=w640-h400-e365" />
 </p>
