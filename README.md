@@ -1,4 +1,4 @@
-# chrome-dino-code
+# chrome-dino-hack
 code to auto run chrome dinosaur game
 
 <p align="left">
